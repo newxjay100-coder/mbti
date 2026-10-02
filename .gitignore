@@ -2,4 +2,6 @@ node_modules/
 .DS_Store
 Thumbs.db
 push.bat
+upload_to_github.bat
+upload.ps1
 
