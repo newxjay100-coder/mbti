@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 420">
+    <defs><linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#10b981"/><stop offset="1" stop-color="#1d1428"/></linearGradient></defs>
+    <rect width="320" height="420" rx="30" fill="url(#g)"/>
+    <circle cx="160" cy="132" r="92" fill="#fff" opacity=".12"/>
+    <path d="M55 420 Q73 305 160 288 Q249 305 267 420Z" fill="#f7efe8" opacity=".98"/>
+    <rect x="139" y="245" width="43" height="54" rx="19" fill="#f4ceb1"/>
+    <ellipse cx="160" cy="170" rx="77" ry="94" fill="#f4ceb1"/>
+    
+        <path d="M74 154 Q59 69 111 43 Q172 13 225 51 Q258 75 252 158 Q224 111 178 103 Q126 96 74 154Z" fill="#57382b"/>
+        <path d="M75 128 Q54 181 71 249 Q84 268 104 243 L92 158Z" fill="#57382b"/>
+        <path d="M250 128 Q267 184 249 248 Q231 267 214 243 L228 157Z" fill="#57382b"/>
+    <ellipse cx="130" cy="168" rx="7" ry="9" fill="#28232c"/><ellipse cx="190" cy="168" rx="7" ry="9" fill="#28232c"/>
+    <circle cx="132" cy="165" r="2" fill="#fff"/><circle cx="192" cy="165" r="2" fill="#fff"/>
+    <path d="M158 180 Q153 199 161 203" fill="none" stroke="#bf8775" stroke-width="3" stroke-linecap="round"/>
+    <path d="M136 223 Q160 235 184 223" fill="none" stroke="#955c62" stroke-width="4" stroke-linecap="round"/>
+    <rect x="56" y="330" width="208" height="58" rx="18" fill="#100c18" opacity=".68"/>
+    <text x="160" y="354" text-anchor="middle" fill="#fff" font-family="Arial" font-size="23" font-weight="700">INFP</text>
+    <text x="160" y="377" text-anchor="middle" fill="#e7dbea" font-family="Arial" font-size="13">다은 · PLAYABLE</text>
+    </svg>

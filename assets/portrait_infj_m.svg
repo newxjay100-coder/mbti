@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 420">
+    <defs><linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0d9488"/><stop offset="1" stop-color="#1d1428"/></linearGradient></defs>
+    <rect width="320" height="420" rx="30" fill="url(#g)"/>
+    <circle cx="160" cy="132" r="92" fill="#fff" opacity=".12"/>
+    <path d="M55 420 Q73 305 160 288 Q249 305 267 420Z" fill="#e8eef7" opacity=".98"/>
+    <rect x="139" y="245" width="43" height="54" rx="19" fill="#ecc09f"/>
+    <ellipse cx="160" cy="170" rx="77" ry="94" fill="#ecc09f"/>
+    
+        <path d="M75 148 Q65 78 114 44 Q174 12 225 52 Q252 75 247 133 Q217 101 190 95 Q147 100 116 91 Q91 108 75 148Z" fill="#171922"/>
+    <ellipse cx="130" cy="168" rx="7" ry="9" fill="#28232c"/><ellipse cx="190" cy="168" rx="7" ry="9" fill="#28232c"/>
+    <circle cx="132" cy="165" r="2" fill="#fff"/><circle cx="192" cy="165" r="2" fill="#fff"/>
+    <path d="M158 180 Q153 199 161 203" fill="none" stroke="#bf8775" stroke-width="3" stroke-linecap="round"/>
+    <path d="M136 223 Q160 235 184 223" fill="none" stroke="#955c62" stroke-width="4" stroke-linecap="round"/>
+    <rect x="56" y="330" width="208" height="58" rx="18" fill="#100c18" opacity=".68"/>
+    <text x="160" y="354" text-anchor="middle" fill="#fff" font-family="Arial" font-size="23" font-weight="700">INFJ</text>
+    <text x="160" y="377" text-anchor="middle" fill="#e7dbea" font-family="Arial" font-size="13">시우 · PLAYABLE</text>
+    </svg>
